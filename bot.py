@@ -41,4 +41,4 @@ async def rndclr(ctx):
     await bot.say(embed=embed)
 
 
-bot.run("NDIzNDAwMzQ5NzM1MzIxNjIw.DYpx0g.jFnoF0B-OH2WoBl76Fo_ipeabx4")
+bot.run(token)
